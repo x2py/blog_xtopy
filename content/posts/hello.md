@@ -2,7 +2,7 @@
 title: "Hello"
 # description: "Desc Text."
 date: 2022-01-13T16:01:16+05:30
-draft: false
+draft: true
 weight: 1
 # aliases: ["/first"]
 tags: ["first"]
