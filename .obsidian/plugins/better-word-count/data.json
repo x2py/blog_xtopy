@@ -1,0 +1,11 @@
+{
+  "preset": {
+    "name": "custom",
+    "statusBarQuery": "",
+    "statusBarAltQuery": ""
+  },
+  "statusBarQuery": "",
+  "statusBarAltQuery": "",
+  "countComments": false,
+  "collectStats": true
+}

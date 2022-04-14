@@ -1,0 +1,22 @@
+
+/* https://forum.obsidian.md/t/problem-fixed-css-problem-bullet-point-relationship-lines-doesn-t-show-correctly-in-edit-mode/13668 */
+
+/*=== Bullet Point Relationship Lines ===*/
+.cm-hmd-list-indent, ul ul { 
+  position: relative; 
+}
+.cm-hmd-list-indent::before, ul ul::before {
+  content:'';
+  border-left: 1px solid rgba(0, 122, 255, 0.55);
+  position: absolute;
+}
+.cm-hmd-list-indent::before {
+  left: 0; 
+  top: -5px; 
+  bottom: -4px; 
+}
+ul ul::before {
+  left: -11px;
+  top: 0;
+  bottom: 0; 
+}

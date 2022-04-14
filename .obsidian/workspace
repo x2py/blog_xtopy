@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "0ee5a54124ab4b0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ace08c593bdd3027",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "data/resources.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1cce2c1e1c5c2807",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c59ce4d2503470a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1531817c3fc1b56",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1919d33c94a81ebd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "folder",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a534930d3a809f01",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0f2dbc4226aab3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdeaff17ee10f2b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "data/resources.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e406a985a4bdc460",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "data/resources.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ace08c593bdd3027",
+  "lastOpenFiles": [
+    "data/resources.md",
+    "content/posts/statistics/A quick guide to the basics of statistics.md",
+    "content/posts/hello.md",
+    "content/archives.md",
+    "static/images/show_diagram.svg",
+    "static/images/undraw_feeling_proud_qne1.svg",
+    "frameworks/strapi/strapi.md",
+    "Hugo/Hugo.md",
+    "frameworks/index.md",
+    "python/dictionary.md"
+  ]
+}

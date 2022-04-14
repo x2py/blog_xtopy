@@ -1,0 +1,17 @@
+{
+  "fileSortOrder": "byModifiedTime",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "_Attachments",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 51
+  },
+  "foldHeading": false,
+  "readableLineLength": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheck": true
+}
