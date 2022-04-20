@@ -48,7 +48,7 @@ Here's the base code on top of which I will show all examples:
 import pandas as pd
 import numpy as np
 import re
-base = pd.read_csv('https://xtopy.com/example/')
+base = pd.read_csv('https://people.sc.fsu.edu/~jburkardt/data/csv/zillow.csv')
 
 
 ```
