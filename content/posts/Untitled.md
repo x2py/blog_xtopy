@@ -8,7 +8,7 @@ draft: true
 weight: 1
 # aliases: ["/first"]
 tags: [""]
-categories: [""]
+categories: ["Allwyns Pandas Field Guide"]
 author: "Allwyn"
 showToc: true
 # TocOpen: false
