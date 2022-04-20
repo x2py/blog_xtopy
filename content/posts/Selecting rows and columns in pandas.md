@@ -1,14 +1,14 @@
 ---
-title: "Selecting rows and columns in pandas"
-description: ""
+title: "Dealing with columns in pandas"
+description: "In this post I go into some uncommon techniques I use every so often to select columns and rows from dataframes in pandas"
 # date: 2022-01-13T16:01:16+05:30
 date: 2022-04-20T10:48
 
-draft: true
+draft: false
 weight: 1
 # aliases: ["/first"]
-tags: [""]
-categories: ["Allwyns Pandas Field Guide"]
+tags: ["python", "pandas", "data analytics", "data wrangling", "excel"]
+categories: ["Allwyns Field Guide", "Pandas", "Data Analytics"]
 author: "Allwyn"
 showToc: true
 # TocOpen: false
@@ -148,8 +148,16 @@ df.loc[:,[df.columns.str.endswith('s')]]
 
 ## Exotic ways of  selecting columns
 Now this may not be your everyday use case but I still mention it here for reference. I use it every once in a while and always forget how it works. When it works, it works and you wonder why you didn't know this existed.
+
+#### Select the columns if the rows meet a certain condition
 ```python
 df.loc[:,[(df[col].mean() > 7) for col in df.columns]]
 
 ```
 In this we use this thing called `list comprehension` where we generate a list of columns that meet a certain condition.
+
+
+## Wrapping up
+I hope these techniques were insightful and more than that, you use them in some project soon.
+I am always on the look out to improve my game, if you think you have something to add-- either a whole new technique or changes to an existing bit of code, please hit me up on Github or Twitter at @thisallwyn.
+You can also join my telegram Channel to interact with other Pythonistas and extend the conversation there 😄 
