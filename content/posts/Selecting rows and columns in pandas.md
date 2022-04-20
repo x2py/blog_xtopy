@@ -54,20 +54,20 @@ df = pd.read_csv('https://people.sc.fsu.edu/~jburkardt/data/csv/zillow.csv')
 
 
 ```
-### Selecting columns the obvious way
-Doing so will create a new df wth 
+
+## Selecting Columns the vanilla way
+### Using angle brackets
+Doing so will create a new df with the columns Index, Beds and Baths
 ```python
 
 df = df[['Index', 'Beds', 'Baths']]
 
 ```
 
+### Using get
+If the column does not exist, you wont get an error. It simply wont show up in the newly created df.
+```python
+df.get(['Index', 'Beds', 'Swimming Pools'])
 
-trigger
-trigger
-py
-df
 
-df 
-wee 
-wee
+```
