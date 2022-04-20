@@ -23,7 +23,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 cover:
- image: "" #
+ image: ""  #
  # alt: ""
  # caption: "" # display caption under cover
  relative: false # when using page bundles set this to true
@@ -38,7 +38,7 @@ forLibrary: ["pandas"]
 forRole: ["data analyst"]
 uDate: {{date}}
 ---
-
+![[choice.svg]]
 ## Why even bother?
 When working with DataFrames in pandas, I have always missed the ease with which I could select rows and columns in Excel. Simple things like deleting a particular cell or arranging columns were soo incredibly easy and intuitive. Of course Google sheets take this one step further with its fancy editor. I am yet to find such ease of use within pandas.
 
