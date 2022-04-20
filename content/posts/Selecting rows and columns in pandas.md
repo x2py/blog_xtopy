@@ -147,3 +147,9 @@ df.loc[:,[df.columns.str.endswith('s')]]
 ```
 
 ## Exotic ways of  selecting columns
+Now this may not be your everyday use case but I still mention it here for reference. I use it every once in a while and always forget how it works. When it works, it works and you wonder why you didn't know this existed.
+```python
+df.loc[:,[(df[col].mean() > 7) for col in df.columns]]
+
+```
+In this we use this thing called `list comprehension` where we generate a list of columns that meet a certain condition.
