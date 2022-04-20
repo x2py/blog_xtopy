@@ -2,7 +2,7 @@
   "fileSortOrder": "byModifiedTime",
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "_Attachments",
+  "attachmentFolderPath": "static/images",
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,
@@ -14,5 +14,6 @@
   "legacyEditor": false,
   "livePreview": true,
   "spellcheck": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true
 }
