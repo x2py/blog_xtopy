@@ -55,8 +55,10 @@ df = pd.read_csv('https://people.sc.fsu.edu/~jburkardt/data/csv/zillow.csv')
 
 ```
 ### Selecting columns the obvious way
+Doing so will create a new df wth 
 ```python
 
-
+df = df[['Index', 'Beds', 'Baths']]
 
 ```
+
