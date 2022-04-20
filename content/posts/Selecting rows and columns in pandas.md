@@ -2,8 +2,7 @@
 title: "Dealing with columns in pandas"
 description: "In this post I go into some uncommon techniques I use every so often to select columns and rows from dataframes in pandas"
 # date: 2022-01-13T16:01:16+05:30
-date: 2022-04-20T10:48
-
+date: 2022-01-15T16:01:16+05:30
 draft: false
 # weight: 1
 # aliases: ["/first"]
