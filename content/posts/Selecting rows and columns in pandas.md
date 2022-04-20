@@ -64,3 +64,6 @@ df = df[['Index', 'Beds', 'Baths']]
 
 
 trigger
+trigger
+py
+df
