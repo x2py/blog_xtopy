@@ -5,7 +5,7 @@ description: "In this post I go into some uncommon techniques I use every so oft
 date: 2022-04-20T10:48
 
 draft: false
-weight: 1
+# weight: 1
 # aliases: ["/first"]
 tags: ["python", "pandas", "data analytics", "data wrangling", "excel"]
 categories: ["Allwyns Field Guide", "Pandas", "Data Analytics"]
