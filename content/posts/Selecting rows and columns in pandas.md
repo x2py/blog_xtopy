@@ -35,7 +35,7 @@ cover:
 forSkill: ["python"]
 forLibrary: ["pandas"]
 forRole: ["data analyst"]
-uDate: {{date}}
+# uDate: 
 ---
 
 ## Why even bother?
