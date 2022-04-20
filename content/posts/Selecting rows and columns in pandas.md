@@ -159,5 +159,5 @@ In this we use this thing called `list comprehension` where we generate a list o
 
 ## Wrapping up
 I hope these techniques were insightful and more than that, you use them in some project soon.
-I am always on the look out to improve my game, if you think you have something to add-- either a whole new technique or changes to an existing bit of code, please hit me up on Github or Twitter at @thisallwyn.
+I am always on the look out to improve my game, if you think you have something to add-- either a whole new technique or changes to an existing bit of code, please hit me up on Github or Twitter at [@thisAllwyn](https://twitter.com/thisallwyn) .
 You can also join my telegram Channel to interact with other Pythonistas and extend the conversation there 😄 
