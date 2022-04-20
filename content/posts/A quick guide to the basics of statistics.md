@@ -5,7 +5,7 @@ date: 2022-01-13T16:01:16+05:30
 draft: false
 weight: 1
 # aliases: ["/first"]
-tags: ["Statistics", "Guide", "Beginner", "Series", "Basics"]
+tags: ["Statistics", "Guide", "Beginner", "Basics"]
 categories: ["Beginners Guides"]
 author: "Allwyn"
 showToc: true
