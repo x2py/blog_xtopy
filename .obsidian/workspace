@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "data/resources.md",
+            "file": "archetypes/post_ob.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/resources.md",
+                "file": "archetypes/post_ob.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/resources.md"
+                "file": "archetypes/post_ob.md"
               }
             }
           }
@@ -99,15 +99,15 @@
   },
   "active": "ace08c593bdd3027",
   "lastOpenFiles": [
+    "archetypes/post_ob.md",
+    "archetypes/post.md",
+    "content/posts/A quick guide to the basics of statistics.md",
     "data/resources.md",
     "content/posts/statistics/A quick guide to the basics of statistics.md",
     "content/posts/hello.md",
     "content/archives.md",
     "static/images/show_diagram.svg",
     "static/images/undraw_feeling_proud_qne1.svg",
-    "frameworks/strapi/strapi.md",
-    "Hugo/Hugo.md",
-    "frameworks/index.md",
-    "python/dictionary.md"
+    "frameworks/strapi/strapi.md"
   ]
 }
