@@ -1,3 +1,4 @@
 {
-  "folder": "archetypes/"
+  "folder": "archetypes",
+  "dateFormat": "YYYY-MM-DDTHH:mm"
 }
