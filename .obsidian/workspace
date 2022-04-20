@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/posts/A quick guide to the basics of statistics.md",
+            "file": "content/posts/Dealing with columns in pandas.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/A quick guide to the basics of statistics.md",
+                "file": "content/posts/Dealing with columns in pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/A quick guide to the basics of statistics.md"
+                "file": "content/posts/Dealing with columns in pandas.md"
               }
             }
           }
@@ -99,8 +99,8 @@
   },
   "active": "ace08c593bdd3027",
   "lastOpenFiles": [
-    "content/posts/A quick guide to the basics of statistics.md",
     "content/posts/Dealing with columns in pandas.md",
+    "content/posts/A quick guide to the basics of statistics.md",
     "content/posts/hello.md",
     "archetypes/tp_pycodeblock.md",
     "archetypes/post_ob.md",

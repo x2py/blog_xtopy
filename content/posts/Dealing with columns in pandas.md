@@ -125,7 +125,7 @@ Note: the required data was a 3 digit integer hence I choose 'int'64, else we wo
 
 ### Select a column based on column names
 #### If column name contains a character or word
-Here the code says: Give me all rows of `df` for which each column has the word `'al'` in it.
+Here the code says: Give me all rows of `df` for which each column has the word `'price'` in it.
 ```python
 
 df.loc[:,['price' in i.lower() for i in df.columns]]
