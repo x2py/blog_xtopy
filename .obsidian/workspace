@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/posts/Dealing with columns in pandas.md",
+            "file": "content/posts/test_redirect.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/Dealing with columns in pandas.md",
+                "file": "content/posts/test_redirect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/Dealing with columns in pandas.md"
+                "file": "content/posts/test_redirect.md"
               }
             }
           }
@@ -99,15 +99,15 @@
   },
   "active": "ace08c593bdd3027",
   "lastOpenFiles": [
+    "content/posts/test_redirect.md",
+    "content/posts/Using GeoPy to fetch customer geolocation data.md",
+    "content/posts/python regular things.md",
+    "content/posts/Pandas display options everyone should use.md",
+    "content/posts/Pandas Basics.md",
+    "content/posts/hello.md",
+    "content/posts/Git Basics.md",
     "content/posts/Dealing with columns in pandas.md",
     "content/posts/A quick guide to the basics of statistics.md",
-    "content/posts/hello.md",
-    "archetypes/tp_pycodeblock.md",
-    "archetypes/post_ob.md",
-    "archetypes/post.md",
-    "data/resources.md",
-    "content/posts/statistics/A quick guide to the basics of statistics.md",
-    "content/archives.md",
-    "static/images/show_diagram.svg"
+    "content/posts/pandas regular things.md"
   ]
 }

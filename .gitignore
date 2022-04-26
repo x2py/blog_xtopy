@@ -1,13 +1,13 @@
 # For Obsidian notes
-/.obsidian/app.json
-/.vault-stats
-/.obsidian/
-/.obsidian/workspaces.json
-/.obsidian/workspace
-/*.ipynb_checkpoints
-/*checkpoint.ipynb
+\.obsidian\app.json
+\.vault-stats
+\.obsidian\
+\.obsidian\workspaces.json
+\.obsidian\workspace
+\*.ipynb_checkpoints
+\*checkpoint.ipynb
 
 # For Hugo
-/public
+\public
 
 # For personal python projects
