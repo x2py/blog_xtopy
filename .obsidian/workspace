@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/posts/test_redirect.md",
-            "mode": "source",
-            "source": false
+            "file": "content/posts/A quick guide to sales prediction using pandas.md",
+            "mode": "source"
           }
         }
       }
@@ -53,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a534930d3a809f01",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/test_redirect.md",
+                "file": "content/posts/A quick guide to sales prediction using pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/test_redirect.md"
+                "file": "content/posts/A quick guide to sales prediction using pandas.md"
               }
             }
           }
@@ -99,15 +99,15 @@
   },
   "active": "ace08c593bdd3027",
   "lastOpenFiles": [
+    "content/posts/A quick guide to sales prediction using pandas.md",
+    "content/posts/A quick guide to the basics of statistics.md",
+    "content/posts/Pandas Basics.md",
+    "content/posts/Pandas display options everyone should use.md",
+    "content/posts/pandas regular things.md",
+    "content/posts/python regular things.md",
     "content/posts/test_redirect.md",
     "content/posts/Using GeoPy to fetch customer geolocation data.md",
-    "content/posts/python regular things.md",
-    "content/posts/Pandas display options everyone should use.md",
-    "content/posts/Pandas Basics.md",
-    "content/posts/hello.md",
-    "content/posts/Git Basics.md",
     "content/posts/Dealing with columns in pandas.md",
-    "content/posts/A quick guide to the basics of statistics.md",
-    "content/posts/pandas regular things.md"
+    "content/posts/hello.md"
   ]
 }
